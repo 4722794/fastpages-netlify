@@ -1,1 +1,1 @@
-Sitemap: https://4722794.github.io/BargainBlog/sitemap.xml
+Sitemap: https://4722794.github.io/fastpages-netlify/sitemap.xml
